@@ -1,4 +1,3 @@
-# face-recognition-attendance-project
 
 # Face Recognition Attendance System
 
